@@ -52,56 +52,154 @@ linkedin_username: jisu-kim-1293b3204
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm Jisu Kim, a machine learning software engineer.
-  Interested in overall machine learning engineering, including computer vision, I'm researching and developing with particular interest in how to collect and refine data to create meaningful machine learning data and how to design a network effectively.
+  My name is Jisu Kim and I'm a machine learning software engineer and researcher.
+
+  I'm interested in overall machine learning engineering, including computer vision.
+  
+  My particular interest in how to collect and refine data to create meaningful machine learning data and how to design a network effectively.
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Project 1
+        border: weak
+        title: Archidraw
+        caption: Mar. 2022 ~ present
         description: | # this will include new lines to allow paragraphs
-          Date
-          Content
+          **Development of AI Interior service with diffusion**
+
+          *(Jul. 2023 ~ Aug. 2023)*
+
+          - Develop a service that can change the interior style based on the user's render shot
+
+          ---
+
+          **Development of a model that separates rooms with complex structures into meaningful areas**
+          
+          *(Apr. 2023 ~ Apr. 2023)*
+          
+          - Develop of a model to separate meaningful subrooms for living rooms, kitchens, and dining rooms
+          
+          ---
+
+          **Research on generative AI**
+          
+          *(Mar. 2023 ~ present)*
+          
+          - Research on the various methods with a diffusion technique that can be used for drawing images, render shots, etc.
+
+          ---
+
+          **Development of render shot score measurement model and designing an automated learning process**
+          
+          *(Dec. 2022 ~ Feb. 2023)*
+          
+          - Develop and upgrade a model that scores the quality of render shots and design processes that automatically learn and update a model with user feedback
+          
+          ---
+
+          **Development of furniture location recommendation model**
+          
+          *(Oct. 2022 ~ Nov. 2022)*
+          
+          - Develop a model that recommends the appropriate location of the furniture selected by the user in consideration of the room structure and the location of the arranged furniture
+
+          ---
+
+          **Development of automatic dimension line recognition function of drawing**
+          
+          *(Jul. 2022 ~ Sep. 2022)*
+          
+          - Develop the ability to automatically recognize the dimension lines contained in the drawing image to read the dimension values and automate the ability to upload the drawing image in Archisketch service
+          
+          ---
+
+          **Development of product recommendation service**
+          
+          *(Jun. 2022 ~ Jul. 2022)*
+          
+          - Develop a service that analyzes the association of furniture used together within the Archisketch project and recommends furniture that would be good to place with the furniture selected by the user
+
+          ---
+
+          **Development of recommendation service for render shot location**
+          
+          *(May. 2022 ~ Jun. 2022)*
+          
+          - Develop a service that analyzes the structure of the room selected by the user and recommends a location where a good render shot can be taken
+
+          ---
+
+          **Development of a model that classifies a room type**
+          
+          *(Mar. 2022 ~ May. 2022)*
+          
+          - Develop a model for inferring the room type of a render shot based on the render shot generated on the Archisketch platform and the furniture contained in the render shot
+
       - layout: left
-        title: Project 2
+        title: Plug N Play
+        caption: Oct. 2021 ~ Feb. 2022
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
-      - layout: left
-        title: Project 3
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          **Project leading and development about PLUK**
+
+          *(Oct. 2021 ~ Feb. 2022)*
+
+          - Develop an artist-friendly platform called "PLUK" that analyzes the sound sources of the market through its own algorithm to learn the characteristics and performance of the sound source, predicts the performance of the new sound source, and provides a guide to composition
+          - [**Article about PLUK**](https://www.news1.kr/articles/?4595881)
 
   - title: Experience
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
+        border: weak
+        title: Archidraw
+        sub_title: Machine learning engineer
+        caption: Mar. 2022 ~ present
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          - Machine learning software engineer responsible for overall development of artificial intelligence-related features provided by 3D interior solution archisketch
+          - Provides artificial intelligence services by organizing and learning various models by collecting data from various services, including editors and dashboards provided by Archisketch, and refining the data to suit the necessary functions to be utilized
+          - Development of capabilities that automate internal data processing and processing to help process tasks in-house
+          - Helps users use services by automating difficult tasks such as furniture placement or preprocessing for drawing image recognition
+          - Development was mainly carried out using python, and model construction was carried out using tensorflow and pytorch
+      
+      - layout: right
+        title: Plug N Play
+        sub_title: A one-man developer
+        caption: Oct. 2021 ~ Feb. 2022
+        description: | # this will include new lines to allow paragraphs
+          - Responsible for data collection and refinement, model construction and implementation, and the creation and distribution of alpha version service pages, as a one-man developer of AI project PLUK
+
   - title: Education
     layout: list
     content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
+      - layout: left
+        border: weak
+        title: Hanyang University
+        sub_title: M.S. in Computer Science
+        caption: Mar. 2020 ~ Feb. 2022
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+          - **Department of Computer Science**
+          - **Thesis**
+            - Sudden sensorineural hearing loss(SSNHL) prognosis prediction with ensemble and contrastive learning
+            - Restore from Restored: Single-image Inpainting
+          - **Advisor**
+            - [*Tae Hyun Kim*](https://sites.google.com/view/lliger9/team/taehyunkim)
+          - **GPA**
+            - 3.98 / 4.5
+      
+      - layout: left
+        title: Hanyang University
+        sub_title: B.S. in Organic and Nano Engineering
+        caption: Mar. 2015 ~ Feb. 2020
+        description: | # this will include new lines to allow paragraphs
+          - **Department of Organic and Nano Engineering**
+          - **Thesis**
+            - Production of magnesium cobalt oxide-based supercapacitor and capacity improvement by adding cationic and anionic surfactant
+          - **Advisor**
+            - [*Hee Joon Ahn*](https://sites.google.com/view/surfacesciencelab/people/professor)
+          - **GPA**
+            - 3.64 / 4.5
 
 # Footer
 footer_show_references: true
