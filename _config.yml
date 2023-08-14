@@ -58,6 +58,8 @@ about_content: | # this will include new lines to allow paragraphs
   
   My particular interest in how to collect and refine data to create meaningful machine learning data and how to design a network effectively.
 
+  [Here](./assets/portfolio_PT_김지수_compressed.pdf) is my development portfolio.
+
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
