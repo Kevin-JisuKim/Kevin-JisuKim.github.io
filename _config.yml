@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Jisu Kim (Kevin)
-title: Machine Learning Engineer (Researcher)
+title: Machine Learning Engineer
 email: king9701@naver.com
 # email_title: Email (Email title override)
 phone: +82)1036928203
@@ -52,7 +52,8 @@ linkedin_username: jisu-kim-1293b3204
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm Jisu Kim, a machine learning software engineer. Interested in overall machine learning engineering, including computer vision, I;m researching and developing with particular interest in how to collect and refine data to create meaningful machine learning data and how to design a network effectively.
+  I'm Jisu Kim, a machine learning software engineer.
+  Interested in overall machine learning engineering, including computer vision, I'm researching and developing with particular interest in how to collect and refine data to create meaningful machine learning data and how to design a network effectively.
 
 content:
   - title: Projects # Title for the section
