@@ -85,13 +85,11 @@ content:
 
           ---
 
-          **Development of a model for detecting problem areas and classifying problem types in education company question sets**
+          **Development of a model for detecting problem areas and inferring problem types in workbooks**
           
           *(Oct. 2023 ~ Nov. 2023)*
           
           - Develop a model to disaggregate the multiple problems within a workbook into individual entities and infer the types of each problem, ultimately convert all problems within the workbook into individual datasets
-          
-          ---
 
       - layout: left
         border: weak
