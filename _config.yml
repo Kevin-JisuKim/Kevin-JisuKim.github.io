@@ -54,7 +54,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   My name is Jisu Kim and I'm a machine learning software engineer and researcher.
 
-  I'm interested in overall machine learning engineering, including computer vision.
+  I'm interested in overall machine learning engineering, including computer vision and nlp.
   
   My particular interest in how to collect and refine data to create meaningful machine learning data and how to design a network effectively.
 
@@ -66,9 +66,46 @@ content:
     content:
       - layout: left
         border: weak
-        title: Archidraw
-        caption: Mar. 2022 ~ present
+        title: Lomin
+        caption: Oct. 2023 ~ present
         description: | # this will include new lines to allow paragraphs
+          **Development of zero-shot document understanding model**
+
+          *(Jan. 2024 ~ present)*
+
+          - Develop a multi-modal model capable of understanding diverse documents without learning specific to individual documents
+
+          ---
+          
+          **Development of a stamp area detection model for documents**
+
+          *(Nov. 2023 ~ Jan. 2024)*
+
+          - Develop a model to detect stamped areas on documents and automatically extract the content of the stamps
+
+          ---
+
+          **Development of a model for detecting problem areas and classifying problem types in education company question sets**
+          
+          *(Oct. 2023 ~ Nov. 2023)*
+          
+          - Develop a model to disaggregate the multiple problems within a workbook into individual entities and infer the types of each problem, ultimately convert all problems within the workbook into individual datasets
+          
+          ---
+
+      - layout: left
+        border: weak
+        title: Archidraw
+        caption: Mar. 2022 ~ Oct. 2023
+        description: | # this will include new lines to allow paragraphs
+          **Development of automatic data processing for product recommendation service**
+
+          *(Sep. 2023 ~ Oct. 2023)*
+
+          - Develop a service that can change the interior style based on the user's render shot
+
+          ---
+          
           **Development of AI Interior service with diffusion**
 
           *(Jul. 2023 ~ Aug. 2023)*
@@ -87,7 +124,7 @@ content:
 
           **Research on generative AI**
           
-          *(Mar. 2023 ~ present)*
+          *(Mar. 2023 ~ Oct. 2023)*
           
           - Research on the various methods with a diffusion technique that can be used for drawing images, render shots, etc.
 
@@ -150,19 +187,30 @@ content:
           - Develop an artist-friendly platform called "PLUK" that analyzes the sound sources of the market through its own algorithm to learn the characteristics and performance of the sound source, predicts the performance of the new sound source, and provides a guide to composition
           - [**Article about PLUK**](https://www.news1.kr/articles/?4595881)
 
-  - title: Experience
+  - title: Career
     layout: list
     content:
       - layout: right
         border: weak
+        title: Lomin
+        sub_title: Machine learning research engineer
+        caption: Oct. 2023 ~ present
+        description: | # this will include new lines to allow paragraphs
+          - Machine learning research engineer conducting research on document understanding
+          - Conduct multi-modal research to comprehend various documents visually and contextually
+          - Model optimization and lightweighting for model inference in diverse environments
+          - Development was mainly carried out using python, and model construction was carried out using and pytorch
+
+      - layout: right
+        border: weak
         title: Archidraw
-        sub_title: Machine learning engineer
-        caption: Mar. 2022 ~ present
+        sub_title: Machine learning software engineer
+        caption: Mar. 2022 ~ Oct. 2023
         description: | # this will include new lines to allow paragraphs
           - Machine learning software engineer responsible for overall development of artificial intelligence-related features provided by 3D interior solution archisketch
-          - Provides artificial intelligence services by organizing and learning various models by collecting data from various services, including editors and dashboards provided by Archisketch, and refining the data to suit the necessary functions to be utilized
+          - Provide artificial intelligence services by organizing and learning various models by collecting data from various services, including editors and dashboards provided by Archisketch, and refining the data to suit the necessary functions to be utilized
           - Development of capabilities that automate internal data processing and processing to help process tasks in-house
-          - Helps users use services by automating difficult tasks such as furniture placement or preprocessing for drawing image recognition
+          - Help users use services by automating difficult tasks such as furniture placement or preprocessing for drawing image recognition
           - Development was mainly carried out using python, and model construction was carried out using tensorflow and pytorch
       
       - layout: right
