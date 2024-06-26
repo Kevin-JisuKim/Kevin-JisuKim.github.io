@@ -50,7 +50,7 @@ linkedin_username: jisu-kim-1293b3204
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   My name is Jisu Kim and I'm a machine learning software engineer and researcher.
 
@@ -69,11 +69,43 @@ content:
         title: Lomin
         caption: Oct. 2023 ~ present
         description: | # this will include new lines to allow paragraphs
-          **Development of zero-shot document understanding model**
+          **Development of a model running on an edge device**
 
-          *(Jan. 2024 ~ present)*
+          *(Jun. 2024 ~ present)*
+
+          - Develop a model to understand images collected from a car navigation camera and extract the necessary information
+          - Lightweight the model to run on a constrained-performance edge device(TX2 board)
+          - Client: Hyundai AutoEver
+          - **Keyword**: Quantization, Edge AI
+
+          ---
+
+          **Development of a model understanding financial documents**
+
+          *(May. 2024 ~ Jul. 2024)*
+
+          - Develop a model to understand financial documents and extract the necessary information
+          - Design a process that can simplify various postprocessing steps
+          - Client: Mirae Asset Securities
+
+          ---
+
+          **Development of a model understanding medical documents**
+
+          *(Feb. 2024 ~ May. 2024)*
+
+          - Develop a model to understand medical documents and extract the necessary information
+          - Develop a model specialized in extracting tabular data
+          - Client: KB Insurance, Hyundai Marine & Fire Insurance, Lotte Non-Life Insurance
+      
+          ---
+
+          **Development of zero-shot document understanding prototype model**
+
+          *(Jan. 2024 ~ Feb. 2024)*
 
           - Develop a multi-modal model capable of understanding diverse documents without learning specific to individual documents
+          - **Keyword**: Zero-shot learning
 
           ---
           
@@ -82,6 +114,7 @@ content:
           *(Nov. 2023 ~ Jan. 2024)*
 
           - Develop a model to detect stamped areas on documents and automatically extract the content of the stamps
+          - Client: Korean Intellectual Property Office(KIPO)
 
           ---
 
@@ -89,7 +122,9 @@ content:
           
           *(Oct. 2023 ~ Nov. 2023)*
           
-          - Develop a model to disaggregate the multiple problems within a workbook into individual entities and infer the types of each problem, ultimately convert all problems within the workbook into individual datasets
+          - Develop a model to disaggregate the multiple problems within a workbook into individual entities and infer the types of each problem
+          - Ultimately convert all problems within the workbook into individual datasets
+          - Client: Visang Education
 
       - layout: left
         border: weak
@@ -100,7 +135,8 @@ content:
 
           *(Sep. 2023 ~ Oct. 2023)*
 
-          - Develop a service that can change the interior style based on the user's render shot
+          - Design processes that automatically learn and update a model with products updated daily(100% automatic)
+          - **Keyword**: AutoML, Airflow
 
           ---
           
@@ -109,6 +145,7 @@ content:
           *(Jul. 2023 ~ Aug. 2023)*
 
           - Develop a service that can change the interior style based on the user's render shot
+          - **Keyword**: Stable Diffusion
 
           ---
 
@@ -116,7 +153,7 @@ content:
           
           *(Apr. 2023 ~ Apr. 2023)*
           
-          - Develop of a model to separate meaningful subrooms for living rooms, kitchens, and dining rooms
+          - Develop of a model to separate big rooms combined into one space to meaningful subrooms, such as living rooms, kitchens, and dining rooms
           
           ---
 
@@ -124,7 +161,7 @@ content:
           
           *(Mar. 2023 ~ Oct. 2023)*
           
-          - Research on the various methods with a diffusion technique that can be used for drawing images, render shots, etc.
+          - Research on the various methods with a diffusion technique that can be used for floorplan images, render shots, etc.
 
           ---
 
@@ -132,7 +169,9 @@ content:
           
           *(Dec. 2022 ~ Feb. 2023)*
           
-          - Develop and upgrade a model that scores the quality of render shots and design processes that automatically learn and update a model with user feedback
+          - Develop and upgrade a model that scores the quality of render shots
+          - Design a process that automatically learn and update a model with user feedback(100% automatic)
+          - **Keyword**: AutoML, Airflow
           
           ---
 
@@ -144,11 +183,13 @@ content:
 
           ---
 
-          **Development of automatic dimension line recognition function of drawing**
+          **Development of automatic dimension line recognition function of floorplan images**
           
           *(Jul. 2022 ~ Sep. 2022)*
           
-          - Develop the ability to automatically recognize the dimension lines contained in the drawing image to read the dimension values and automate the ability to upload the drawing image in Archisketch service
+          - Develop a model automatically recognizes the dimension lines contained in the floorplan images to read the dimension values
+          - Automate a process about uploading floorplan images in Archisketch service
+          - **Keyword**: Image Processing
           
           ---
 
@@ -157,6 +198,7 @@ content:
           *(Jun. 2022 ~ Jul. 2022)*
           
           - Develop a service that analyzes the association of furniture used together within the Archisketch project and recommends furniture that would be good to place with the furniture selected by the user
+          - **Keyword**: Recommendation System
 
           ---
 
@@ -172,7 +214,7 @@ content:
           
           *(Mar. 2022 ~ May. 2022)*
           
-          - Develop a model for inferring the room type of a render shot based on the render shot generated on the Archisketch platform and the furniture contained in the render shot
+          - Develop a model for inferring the room type of a render shot generated on the Archisketch platform
 
       - layout: left
         title: Plug N Play
