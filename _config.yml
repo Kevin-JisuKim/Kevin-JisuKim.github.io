@@ -75,8 +75,8 @@ content:
 
           - Develop a model to understand images collected from a car navigation camera and extract the necessary information
           - Lightweight the model to run on a constrained-performance edge device(TX2 board)
-          - Client: Hyundai AutoEver
-          - **Keyword**: Quantization, Edge AI
+          - ***Client***: Hyundai AutoEver
+          - ***Keyword***: Quantization, Edge AI
 
           ---
 
@@ -86,7 +86,7 @@ content:
 
           - Develop a model to understand financial documents and extract the necessary information
           - Design a process that can simplify various postprocessing steps
-          - Client: Mirae Asset Securities
+          - ***Client***: Mirae Asset Securities
 
           ---
 
@@ -96,7 +96,7 @@ content:
 
           - Develop a model to understand medical documents and extract the necessary information
           - Develop a model specialized in extracting tabular data
-          - Client: KB Insurance, Hyundai Marine & Fire Insurance, Lotte Non-Life Insurance
+          - ***Client***: KB Insurance, Hyundai Marine & Fire Insurance, Lotte Non-Life Insurance
       
           ---
 
@@ -105,7 +105,7 @@ content:
           *(Jan. 2024 ~ Feb. 2024)*
 
           - Develop a multi-modal model capable of understanding diverse documents without learning specific to individual documents
-          - **Keyword**: Zero-shot learning
+          - ***Keyword***: Zero-shot learning
 
           ---
           
@@ -114,7 +114,7 @@ content:
           *(Nov. 2023 ~ Jan. 2024)*
 
           - Develop a model to detect stamped areas on documents and automatically extract the content of the stamps
-          - Client: Korean Intellectual Property Office(KIPO)
+          - ***Client***: Korean Intellectual Property Office(KIPO)
 
           ---
 
@@ -124,7 +124,7 @@ content:
           
           - Develop a model to disaggregate the multiple problems within a workbook into individual entities and infer the types of each problem
           - Ultimately convert all problems within the workbook into individual datasets
-          - Client: Visang Education
+          - ***Client***: Visang Education
 
       - layout: left
         border: weak
@@ -136,7 +136,7 @@ content:
           *(Sep. 2023 ~ Oct. 2023)*
 
           - Design processes that automatically learn and update a model with products updated daily(100% automatic)
-          - **Keyword**: AutoML, Airflow
+          - ***Keyword***: AutoML, Airflow
 
           ---
           
@@ -145,7 +145,7 @@ content:
           *(Jul. 2023 ~ Aug. 2023)*
 
           - Develop a service that can change the interior style based on the user's render shot
-          - **Keyword**: Stable Diffusion
+          - ***Keyword***: Stable Diffusion
 
           ---
 
@@ -171,7 +171,7 @@ content:
           
           - Develop and upgrade a model that scores the quality of render shots
           - Design a process that automatically learn and update a model with user feedback(100% automatic)
-          - **Keyword**: AutoML, Airflow
+          - ***Keyword***: AutoML, Airflow
           
           ---
 
@@ -189,7 +189,7 @@ content:
           
           - Develop a model automatically recognizes the dimension lines contained in the floorplan images to read the dimension values
           - Automate a process about uploading floorplan images in Archisketch service
-          - **Keyword**: Image Processing
+          - ***Keyword***: Image Processing
           
           ---
 
@@ -198,7 +198,7 @@ content:
           *(Jun. 2022 ~ Jul. 2022)*
           
           - Develop a service that analyzes the association of furniture used together within the Archisketch project and recommends furniture that would be good to place with the furniture selected by the user
-          - **Keyword**: Recommendation System
+          - ***Keyword***: Recommendation System
 
           ---
 
