@@ -60,6 +60,8 @@ about_content: | # this will include new lines to allow paragraphs
 
   [Here](./assets/Portfolio_Kevin_Jisu_Kim.pdf) is my development portfolio.
 
+  A new [interview](https://www.lomin.ai/interview/ml-engineer-jisu) has been posted on LinkedIn. It will also be published on [Labzine](http://labzine.co.kr) soon.
+
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -69,7 +71,7 @@ content:
         title: Lomin
         caption: Oct. 2023 ~ present
         description: | # this will include new lines to allow paragraphs
-          **Development of a model running on an edge device**
+          **Development of an OCR model running on an edge device**
 
           *(Jun. 2024 ~ present)*
 
@@ -145,6 +147,7 @@ content:
           *(Jul. 2023 ~ Aug. 2023)*
 
           - Develop a service that can change the interior style based on the user's render shot
+          - [**Article about AI interior**](https://kr.aving.net/news/articleView.html?idxno=1778592)
           - ***Keyword***: Stable Diffusion
 
           ---
