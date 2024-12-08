@@ -71,9 +71,31 @@ content:
         title: Lomin
         caption: Oct. 2023 ~ present
         description: | # this will include new lines to allow paragraphs
+          **Development of a model understanding postal documents**
+
+          *(Oct. 2024 ~ Present)*
+
+          - Develop a model to understand postal documents and extract the necessary information
+          - Contribute to the automation of a significant portion of postal office operations
+          - [**Article about business with koreapost**](https://www.asiaa.co.kr/news/articleView.html?idxno=194214)
+          - ***Client***: Koreapost
+
+          ---
+          
+          **Development of a model understanding documents with table**
+
+          *(Sep. 2024 ~ Oct. 2024)*
+
+          - Develop a model to understand documents contain various tables and extract the necessary information
+          - Develop general postprocessing methods can handle various types of tables
+          - ***Client***: Korean Intellectual Property Office(KIPO)
+          - ***Keyword***: Table Understanding
+
+          ---
+
           **Development of an OCR model running on an edge device**
 
-          *(Jun. 2024 ~ present)*
+          *(Jun. 2024 ~ Aug. 2024)*
 
           - Develop a model to understand images collected from a car navigation camera and extract the necessary information
           - Lightweight the model to run on a constrained-performance edge device(TX2 board)
