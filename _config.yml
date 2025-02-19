@@ -109,7 +109,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: right
+      - layout: left
         border: weak
         title: Lomin
         caption: Oct. 2023 ~ present
@@ -193,7 +193,7 @@ content:
           - Ultimately convert all problems within the workbook into individual datasets
           - ***Client***: Visang Education
 
-      - layout: right
+      - layout: left
         border: weak
         title: Archidraw
         caption: Mar. 2022 ~ Oct. 2023
@@ -284,7 +284,7 @@ content:
           
           - Develop a model for inferring the room type of a render shot generated on the Archisketch platform
 
-      - layout: right
+      - layout: left
         title: Plug N Play
         caption: Oct. 2021 ~ Feb. 2022
         description: | # this will include new lines to allow paragraphs
