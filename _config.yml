@@ -114,6 +114,25 @@ content:
         title: Lomin
         caption: Oct. 2023 ~ present
         description: | # this will include new lines to allow paragraphs
+          **Development a unified vision-language model for comprehensive document understanding across various formats**
+          
+          *(Mar. 2025 ~ present)*
+
+          - Develop a vision-language model that mimics human document understanding to enable zero-shot recognition across diverse document types
+          - Design and implement a unified model and infrastructure supporting multiple tasks, including OCR, document parsing, question answering and more
+          - Lead the project as both a core developer and project manager
+
+          ---
+
+          **Development a pipeline for converting table data formats and training models on the transformed data**
+
+          *(Jan. 2025 ~ Feb. 2025)*
+
+          - Develop a logic to convert table border labeling data into a trainable format
+          - Develop a process to train and deploy a model for table structure recognition
+
+          ---
+          
           **Development of a model understanding postal documents**
 
           *(Oct. 2024 ~ Dec. 2024)*
