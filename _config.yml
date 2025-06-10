@@ -68,9 +68,17 @@ content:
     content:
       - layout: left
         border: weak
+        title: Wonri Edu
+        sub_title: Head of research institute
+        caption: Jun. 2025 ~ Present
+        # description: | # this will include new lines to allow paragraphs
+        #   - 
+
+      - layout: left
+        border: weak
         title: Lomin
         sub_title: Machine learning team lead
-        caption: Mar. 2025 ~ present
+        caption: Mar. 2025 ~ Jun. 2025
         description: | # this will include new lines to allow paragraphs
           - Machine learning team lead managing a team of 4 machine learning engineers
           - Manage projects and team members to achieve the best results
@@ -80,7 +88,7 @@ content:
         border: weak
         title: Lomin
         sub_title: Machine learning research engineer
-        caption: Oct. 2023 ~ present
+        caption: Oct. 2023 ~ Jun. 2025
         description: | # this will include new lines to allow paragraphs
           - Machine learning research engineer conducting research on document understanding
           - Conduct multi-modal research to comprehend various documents visually and contextually
@@ -112,11 +120,11 @@ content:
       - layout: left
         border: weak
         title: Lomin
-        caption: Oct. 2023 ~ present
+        caption: Oct. 2023 ~ Jun. 2025
         description: | # this will include new lines to allow paragraphs
           **Development a unified vision-language model for comprehensive document understanding across various formats**
           
-          *(Mar. 2025 ~ present)*
+          *(Mar. 2025 ~ Jun. 2025)*
 
           - Develop a vision-language model that mimics human document understanding to enable zero-shot recognition across diverse document types
           - Design and implement a unified model and infrastructure supporting multiple tasks, including OCR, document parsing, question answering and more
